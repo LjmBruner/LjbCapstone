@@ -1,1 +1,2 @@
-Hello! This is the first README
+# Space Blaster
+Space Blaster is a 2D arcade space shooter game made with Unity. The goal of this project was to make a fun arcade style game reminiscent of games like galaga and space invaders. In this game, you control a spaceship that cabn move around and shoot. The goal of the game is to fight an endless wave of enemy spaceships and try to get as many points as you can. The enemies will sometimes drop powerups that will make your ship more powerful.
